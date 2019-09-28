@@ -1,3 +1,0 @@
-hello my git
-im qjw hello
-this is my first commit
